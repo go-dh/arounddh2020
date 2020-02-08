@@ -1,0 +1,32 @@
+title: Around DH 2020
+url: http://arounddh.org
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: About
+    url: /about
+  - title: Projects
+    url: /projects
+
+name: 
+  en: Around DH 2020
+description: 
+  en: Digital humanities projects from the Global South, minoritized groups, and/or in languages other than English.
+footer:
+  en: A project of Global Outlook::DH.
+exclude: [README.md]
+permalink: pretty
+repository: mrzool/polyglot-jekyll
+base-url: ""
+
+social:
+#  github: brianmaierjr
+  twitter: globaloutlookdh
+#  facebook: brianmaierjr
+#  email: brimaidesigns@gmail.com
+
+#google_analytics: "UA-58263416-1"

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="{{ page.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>{{ page.title }} | {{ site.name[page.language] }}</title>
+    <meta name="author" content="Global Outlook::Digital Humanities">
+    <meta name="description" content="{{ site.description[page.language] }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="globaloutlookdh_">
+    <meta name="twitter:creator" content="globaloutlookdh">
+    <meta name="twitter:title" content="Around DH 2020">
+    <meta name="twitter:description" content="DH projects from the Global South, minoritized groups, and in languages other than English">
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css">
+
+  </head>
+  <body>
+
+    <nav>
+      {% assign pages = site.pages | sort: "nav-order"  %}
+      {% for p in pages %}
+        {% if p.language == page.language %}
+          <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
+        {% endif %}
+      {% endfor %}
+    </nav>
+    <nav class="language-switcher">
+      {% if page.name contains "index" %}
+        <!--<a class="eo" href="{{ site.baseurl }}/">EO</a>-->
+        <a class="en" href="{{ site.baseurl | append: "/en" }}">EN</a>
+        <!--<a class="de" href="{{ site.baseurl | append: "/de" }}">DE</a>
+        <a class="it" href="{{ site.baseurl | append: "/it" }}">IT</a>
+        <a class="zh" href="{{ site.baseurl | append: "/zh" }}">ZH</a>-->
+      {% else %}
+        <!--<a class="eo" href="{{ site.baseurl | append: page.handle }}">EO</a>-->
+        <a class="en" href="{{ site.baseurl | append: "/en" | append: page.handle }}">EN</a>
+        <!--<a class="de" href="{{ site.baseurl | append: "/de" | append: page.handle }}">DE</a>
+        <a class="it" href="{{ site.baseurl | append: "/it" | append: page.handle }}">IT</a>
+        <a class="zh" href="{{ site.baseurl | append: "/zh" | append: page.handle }}">ZH</a>-->
+      {% endif %}
+    </nav>
+
+    <header>
+      <h1>{{ site.name[page.language] }}</h1>
+      <h2>{{ site.description[page.language] }}</h2>
+    </header>
+
+    <main>
+<style>
+
+
+.states1995 {
+  stroke: white;
+  stroke-width: 10;
+  stroke-opacity:0.5;
+  fill: none;
+}
+
+.citiesall {
+    fill:green;
+    stroke:green;
+    fill-opacity: 0.75;
+    stroke-opacity: 0.5;
+}
+
+.sources {
+    fill:red;
+    stroke:white;
+    fill-opacity: 0.75;
+    stroke-opacity: 0.5;
+}
+
+.legend{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.3em;
+}
+
+.legendtitle{
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+.legendscale{
+    font-size: 0.8em;
+}
+
+</style>
+<script src="/d3/d3.v5.min.js"></script>
+<script src="/d3/d3-geo.v1.min.js"></script>
+<script src="/d3/d3-geo-projection.v2.min.js"></script>
+<script src="/d3/d3-geo-polygon.min.js"></script>
+    
+	  {{ content }}
+    
+	
+	</main>
+
+    <!-- <footer> -->
+    <!-- <small>{{ site.footer[page.language] | markdownify }}</small> -->
+    <!-- </footer> -->
+
+  </body>
+</html>
