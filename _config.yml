@@ -3,24 +3,24 @@ url: http://arounddh.org
 
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
+  - jekyll-redirect-from
 paginate: 5
 
 navigation:
   - title: About
     url: /about
-  - title: Projects
-    url: /projects
 
 name: 
   en: Around DH 2020
 description: 
   en: Digital humanities projects from the Global South, minoritized groups, and/or in languages other than English.
 footer:
-  en: A project of Global Outlook::DH.
+  en: 'A project of <a href="http://www.globaloutlookdh.org/">Global Outlook::DH</a>.'
 exclude: [README.md]
 permalink: pretty
-repository: mrzool/polyglot-jekyll
+repository: go-dh/arounddh2020
 base-url: ""
 
 social:
@@ -30,3 +30,5 @@ social:
 #  email: brimaidesigns@gmail.com
 
 #google_analytics: "UA-58263416-1"
+
+permalink: pretty

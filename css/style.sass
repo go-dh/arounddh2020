@@ -11,6 +11,7 @@ body
 
 header
   margin-top: 5em
+  margin-bottom: 2em
 
 nav a
   margin-right: .5em
@@ -40,7 +41,7 @@ nav a
 
 body
   font-family: monospace
-  font-weight: 400
+  font-weight: normal
   line-height: 1.45
 
 h1, h2, h3, h4
@@ -49,9 +50,18 @@ h1
   font-weight: inherit
   line-height: 1.2
   margin-top: 0
+  margin-bottom: 0
   font-size: 2.441em
+
+
+h1.title
+  font-size: 3em
+  margin-bottom: 0
   text-transform: uppercase
-  letter-spacing: .1em
+  
+  
+h3.description
+  margin: 0
 
 small
   font-size: .8em
@@ -67,16 +77,19 @@ nav
   color: #fff
 
 footer, header, main, section
-  padding-top: 2em
-  padding-bottom: 2em
+  padding-top: .5em
+  padding-bottom: .5em
 
 footer a
   color: #2ecc40
   font-weight: 700
 
-  &:visited
-    color: #2ecc40
-    font-weight: 700
-
-  &:hover
-    color: #01ff70
+p.postlist, h3.postlist
+  margin: 0
+  padding: 0
+  
+.hero-image
+  width: 100%
+  margin-top: 2rem
+  padding-bottom: 56.25%
+  background: 50% 50% / cover

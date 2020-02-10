@@ -1,59 +1,9 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-    <title>{{ page.title }} | {{ site.name[page.lang] }}</title>
-    <meta name="author" content="Global Outlook::Digital Humanities">
-    <meta name="description" content="{{ site.description[page.lang] }}">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: default
+lang: en
+---
+<p>Around DH 2020 revisits the goals of the original <a href="https://github.com/elotroalex/arounddh">Around DH in 80 Days</a>, in order to introduce new and veteran audiences to the evolving, global field of DH scholarly practice by bringing together current DH projects from around the world.</p>
 
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="globaloutlookdh_">
-    <meta name="twitter:creator" content="globaloutlookdh">
-    <meta name="twitter:title" content="Around DH 2020">
-    <meta name="twitter:description" content="DH projects from the Global South, minoritized groups, and in langs other than English">
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css">
-
-  </head>
-  <body>
-
-<nav>
-	<a href="/en/about">About</a>
-  <!--{% for p in site.pages %}
-    {% if p.lang == page.lang %} 
-      <a href="{{ p.url | prepend: site.baseurl }}">
-        {{ p.title }}
-      </a>
-    {% endif %}
-  {% endfor %}-->
-</nav>
-    <nav class="lang-switcher">
-      {% if page.name contains "index" %}
-        <!--<a class="eo" href="{{ site.baseurl }}/">EO</a>-->
-        <a class="en" href="{{ site.baseurl | append: "/en" }}">EN</a>
-        <!--<a class="de" href="{{ site.baseurl | append: "/de" }}">DE</a>
-        <a class="it" href="{{ site.baseurl | append: "/it" }}">IT</a>
-        <a class="zh" href="{{ site.baseurl | append: "/zh" }}">ZH</a>-->
-      {% else %}
-        <!--<a class="eo" href="{{ site.baseurl | append: page.handle }}">EO</a>-->
-        <a class="en" href="{{ site.baseurl | append: "/en" | append: page.handle }}">EN</a>
-        <!--<a class="de" href="{{ site.baseurl | append: "/de" | append: page.handle }}">DE</a>
-        <a class="it" href="{{ site.baseurl | append: "/it" | append: page.handle }}">IT</a>
-        <a class="zh" href="{{ site.baseurl | append: "/zh" | append: page.handle }}">ZH</a>-->
-      {% endif %}
-    </nav>
-
-    <header>
-      <a href="/"><h1 class="title">{{ site.name[page.lang] }}</h1></a>
-      <h3 class="description">{{ site.description[page.lang] }}</h3>
-    </header>
-
-
-    <main>
-		
-		
 <style>
 
 
@@ -97,13 +47,6 @@
 <script src="/d3/d3-geo.v1.min.js"></script>
 <script src="/d3/d3-geo-projection.v2.min.js"></script>
 <script src="/d3/d3-geo-polygon.min.js"></script>
-    <h1>{{page.title}}</h1>
-	<p>by {{page.author}}</p>
-    {% if page.image %}
-      <div class="hero-image" style="background-image: url('/assets/{{ page.lang-ref }}.jpg'); background-image: -webkit-image-set( url('/assets/{{ page.lang-ref }}.jpg') 1x, url('/assets/{{ page.lang-ref }}.jpg') 2x )"></div>
-    {% endif %}
-
-	  {{ content }}
   	<svg width="1100" height="600"></svg>
   	<p style="postlist"><strong>Key:</strong> <em>Collaborators:</em> blue, <em>Sources: </em> purple.</p>
   	<script>
@@ -149,8 +92,8 @@
 
   	Promise.all([
   	    d3.json('/assets/world_1994.geojson.txt'),
-  	    d3.json('/assets/{{page.ref}}sources.geojson.txt'),
-  	    d3.json('/assets/{{page.ref}}people.geojson.txt')
+  	    d3.json('/assets/indexsources.geojson.txt'),
+  	    d3.json('/assets/indexpeople.geojson.txt')
   	]).then(([states1994,citiesall,sources]) => {
   	    svg.append("g")
   	            .attr("class", "states1994")
@@ -181,11 +124,10 @@
     
   	});
   	</script>
-	</main>
 
-    <footer>
-    <small>{{ site.footer[page.lang] | markdownify }}</small>
-    </footer>
-
-  </body>
-</html>
+<h2>Projects</h2>
+{% for post in site.posts %}	
+    <h3 class="postlist"><a href="{{ post.url }}">{{ post.title }}</a> by {{ post.author }}</h3>
+    <p class="postlist"><strong>{{ post.date | date: "%B %e, %Y" }}</strong></p>
+	<p class="postlist">{{ post.description }}</small></p>			
+{% endfor %}
