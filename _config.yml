@@ -14,10 +14,13 @@ navigation:
 
 name: 
   en: Around DH 2020
+  ca: Al voltant de DH 2020
 description: 
   en: Digital humanities projects in languages other than English or from minoritized groups worldwide.
+  ca: Projectes d'humanitats digitals en llengües a banda de l'anglès o llengües minoritzades arreu del món.
 footer:
   en: 'A project of <a href="http://www.globaloutlookdh.org/">Global Outlook::DH</a>.'
+  ca: 'Un projecte de <a href="http://www.globaloutlookdh.org/">Global Outlook::DH</a>.'
 exclude: [README.md]
 permalink: pretty
 repository: go-dh/arounddh2020
