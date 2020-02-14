@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/04/day44
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/04/day44
+layout: post
+title:  "Day 44: Humanities Networked Infrastructure"
+date:   2014-08-04 04:00:00
+categories: jekyll update
+---

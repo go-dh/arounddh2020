@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/29/day69
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/29/day69
+layout: post
+title:  "Day 69: National Palace Museum Virtual Museum"
+date:   2014-08-29 04:00:00
+categories: jekyll update
+---

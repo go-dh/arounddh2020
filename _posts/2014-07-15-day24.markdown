@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/15/day24
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/15/day24
+layout: post
+title:  "Day 24: Interactive Quixote | Quijote interactivo"
+date:   2014-07-15 04:00:00
+categories: jekyll update
+---

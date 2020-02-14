@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/06/30/day9
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/06/30/day9
+layout: post
+title:  "Day 9: eastcree.org"
+date:   2014-06-30 04:00:00
+categories: jekyll update
+---

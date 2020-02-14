@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/16/day56
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/16/day56
+layout: post
+title:  "Day 56: Text Analysis with R for Students of Literature"
+date:   2014-08-16 04:00:00
+categories: jekyll update
+---

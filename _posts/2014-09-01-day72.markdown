@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/09/01/day72
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/09/01/day72
+layout: post
+title:  "Day 72: Online Dictionary of Cook Islands Languages"
+date:   2014-09-01 04:00:00
+categories: jekyll update
+---

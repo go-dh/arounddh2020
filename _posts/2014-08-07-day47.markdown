@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/07/day47
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/07/day47
+layout: post
+title:  "Day 47: Eesti vanema kirjanduse digitaalne tekstikogu"
+date:   2014-08-07 04:00:00
+categories: jekyll update
+---

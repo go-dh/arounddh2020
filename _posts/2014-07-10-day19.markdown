@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/10/day19
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/10/day19
+layout: post
+title:  "Day 19: All of Tolstoy in One Click | Весь Толстой в один клик"
+date:   2014-07-10 04:00:00
+categories: jekyll update
+---

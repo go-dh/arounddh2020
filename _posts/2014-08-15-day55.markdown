@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/15/day55
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/15/day55
+layout: post
+title:  "Day 55: AustLit"
+date:   2014-08-15 04:00:00
+categories: jekyll update
+---

@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/23/day63
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/23/day63
+layout: post
+title:  "Day 63: DigiHUBB"
+date:   2014-08-23 04:00:00
+categories: jekyll update
+---

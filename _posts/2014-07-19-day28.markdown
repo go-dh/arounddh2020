@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/19/day28
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/19/day28
+layout: post
+title:  "Day 28: Digital Library of Morocco | Bibliothèque Numérique Marocaine"
+date:   2014-07-19 04:00:00
+categories: jekyll update
+---

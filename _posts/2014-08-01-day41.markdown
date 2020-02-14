@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/01/day41
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/01/day41
+layout: post
+title:  "Day 41: DH-JAC | 日本文化デジタル・ヒューマニティーズ拠点"
+date:   2014-08-01 04:00:00
+categories: jekyll update
+---

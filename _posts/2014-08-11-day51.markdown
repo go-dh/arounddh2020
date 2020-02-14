@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/11/day51
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/11/day51
+layout: post
+title:  "Day 51: The History of Ayutthaya"
+date:   2014-08-11 04:00:00
+categories: jekyll update
+---

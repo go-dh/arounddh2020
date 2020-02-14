@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/26/day35
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/26/day35
+layout: post
+title:  "Day 35: Digital Harlem"
+date:   2014-07-26 04:00:00
+categories: jekyll update
+---

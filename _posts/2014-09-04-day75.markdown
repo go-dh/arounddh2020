@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/09/04/day75
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/09/04/day75
+layout: post
+title:  "Day 75: Global Egyptian Museum"
+date:   2014-09-04 04:00:00
+categories: jekyll update
+---

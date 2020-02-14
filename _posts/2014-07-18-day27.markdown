@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/18/day27
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/18/day27
+layout: post
+title:  "Day 27: Maker Lab in the Humanities | UVic"
+date:   2014-07-18 04:00:00
+categories: jekyll update
+---

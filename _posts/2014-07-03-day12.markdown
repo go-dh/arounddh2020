@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/03/day12
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/03/day12
+layout: post
+title:  "Day 12: Virtual Library | Biblioteca Virtual"
+date:   2014-07-03 04:00:00
+categories: jekyll update
+---

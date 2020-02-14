@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/23/day32
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/23/day32
+layout: post
+title:  "Day 32: African Online Digital Library"
+date:   2014-07-23 04:00:00
+categories: jekyll update
+---

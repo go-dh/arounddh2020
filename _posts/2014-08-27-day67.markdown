@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/27/day67
+redirect_t: http://arounddh.elotroalex.com/jekyll/update/2014/08/27/day67
+layout: post
+title:  "Day 67: Iraqi Jewish Archive"
+date:   2014-08-27 04:00:00
+categories: jekyll update
+---

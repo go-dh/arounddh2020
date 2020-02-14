@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/03/day43
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/03/day43
+layout: post
+title:  "Day 43: The British Library Qatar Foundation Partnership"
+date:   2014-08-03 04:00:00
+categories: jekyll update
+---

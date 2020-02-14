@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/19/day59
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/19/day59
+layout: post
+title:  "Day 59: Hímaco"
+date:   2014-08-19 04:00:00
+categories: jekyll update
+---

@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/18/day58
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/18/day58
+layout: post
+title:  "Day 58: Манускрипт | Manuscript"
+date:   2014-08-18 04:00:00
+categories: jekyll update
+---

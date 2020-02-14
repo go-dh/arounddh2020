@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/21/day61
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/21/day61
+layout: post
+title:  "Day 61: Rekhta"
+date:   2014-08-21 04:00:00
+categories: jekyll update
+---

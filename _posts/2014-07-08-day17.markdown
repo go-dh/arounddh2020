@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/08/day17
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/08/day17
+layout: post
+title:  "Day 17: Deepening Histories of Place"
+date:   2014-07-08 04:00:00
+categories: jekyll update
+---

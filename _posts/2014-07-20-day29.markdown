@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/20/day29
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/20/day29
+layout: post
+title:  "Day 29: Tripitaka Koreana Knowledgebase"
+date:   2014-07-20 04:00:00
+categories: jekyll update
+---

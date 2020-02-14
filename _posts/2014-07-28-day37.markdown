@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/28/day37
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/28/day37
+layout: post
+title:  "Day 37: Mo3jam | معجم"
+date:   2014-07-28 04:00:00
+categories: jekyll update
+---

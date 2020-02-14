@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/16/day25
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/16/day25
+layout: post
+title:  "Day 25: Digitizing \"Chinese Englishmen\""
+date:   2014-07-16 04:00:00
+categories: jekyll update
+---

@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/27/day36
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/27/day36
+layout: post
+title:  "Day 36: Neatline"
+date:   2014-07-27 04:00:00
+categories: jekyll update
+---

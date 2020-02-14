@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/11/day20
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/11/day20
+layout: post
+title:  "Day 20: Sefaria"
+date:   2014-07-11 04:00:00
+categories: jekyll update
+---

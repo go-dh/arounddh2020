@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/02/day42
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/02/day42
+layout: post
+title:  "Day 42: Umang | امنگ"
+date:   2014-08-02 04:00:00
+categories: jekyll update
+---

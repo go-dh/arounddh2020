@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/02/day11
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/02/day11
+layout: post
+title:  "Day 11: Digital Silk Road | デジタル・シルクロード・プロジェクト"
+date:   2014-07-02 04:00:00
+categories: jekyll update
+---

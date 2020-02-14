@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/24/day33
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/24/day33
+layout: post
+title:  "Day 33: Indian Memory Project"
+date:   2014-07-24 04:00:00
+categories: jekyll update
+---

@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/09/03/day74
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/09/03/day74
+layout: post
+title:  "Day 74: AfricaMap"
+date:   2014-09-03 04:00:00
+categories: jekyll update
+---

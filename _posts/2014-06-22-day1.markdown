@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/06/22/day1
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/06/22/day1
+layout: post
+title:  "Day 1: Frog in a Well | 井底之蛙"
+date:   2014-06-22 04:00:00
+categories: jekyll update
+---

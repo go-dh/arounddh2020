@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/24/day64
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/24/day64
+layout: post
+title:  "Day 64: Ulwazi"
+date:   2014-08-24 04:00:00
+categories: jekyll update
+---

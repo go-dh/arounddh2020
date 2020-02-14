@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/06/23/day2
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/06/23/day2
+layout: post
+title:  "Day 2: Transcribe Bleek & Lloyd"
+date:   2014-06-23 06:00:00
+categories: jekyll update
+---

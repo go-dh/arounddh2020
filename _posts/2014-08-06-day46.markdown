@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/06/day46
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/06/day46
+layout: post
+title:  "Day 46: Vectors"
+date:   2014-08-06 04:00:00
+categories: jekyll update
+---

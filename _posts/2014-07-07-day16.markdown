@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/07/day16
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/07/day16
+layout: post
+title:  "Day 16: Memories of Austral Patagonia | Memorias de la Patagonia Austral"
+date:   2014-07-07 04:00:00
+categories: jekyll update
+---

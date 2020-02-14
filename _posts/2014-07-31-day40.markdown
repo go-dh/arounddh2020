@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/31/day40
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/31/day40
+layout: post
+title:  "Day 40: About Face"
+date:   2014-07-31 04:00:00
+categories: jekyll update
+---

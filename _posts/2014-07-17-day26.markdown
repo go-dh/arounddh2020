@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/17/day26
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/17/day26
+layout: post
+title:  "Day 26: Digital New Zealand Ā-tihi o Aotearoa"
+date:   2014-07-17 04:00:00
+categories: jekyll update
+---

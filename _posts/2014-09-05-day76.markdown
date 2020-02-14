@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/09/05/day76
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/09/05/day76
+layout: post
+title:  "Day 76: Digitális Irodalmi Akadémia | Digital Literary Academy"
+date:   2014-09-05 04:00:00
+categories: jekyll update
+---

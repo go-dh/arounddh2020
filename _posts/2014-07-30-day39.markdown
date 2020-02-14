@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/30/day39
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/30/day39
+layout: post
+title:  "Day 39: World War I in Africa"
+date:   2014-07-30 04:00:00
+categories: jekyll update
+---

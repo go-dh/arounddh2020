@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/06/28/day7
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/06/28/day7
+layout: post
+title:  "Day 7: Center for Digital Humanities | Центар за дигиталне хуманистичке науке"
+date:   2014-06-28 04:00:00
+categories: jekyll update
+---

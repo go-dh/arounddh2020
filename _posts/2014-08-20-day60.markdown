@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/20/day60
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/20/day60
+layout: post
+title:  "Day 60: Asian Shakespeare Intercultural Archive (A|S|I|A)"
+date:   2014-08-20 04:00:00
+categories: jekyll update
+---

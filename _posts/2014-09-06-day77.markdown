@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/09/06/day77
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/09/06/day77
+layout: post
+title:  "Day 77: The Digital Library of the Caribbean (dLOC)"
+date:   2014-09-06 04:00:00
+categories: jekyll update
+---

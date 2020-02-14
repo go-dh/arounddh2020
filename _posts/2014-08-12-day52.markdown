@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/12/day52
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/12/day52
+layout: post
+title:  "Day 52: AlexCinema"
+date:   2014-08-12 04:00:00
+categories: jekyll update
+---

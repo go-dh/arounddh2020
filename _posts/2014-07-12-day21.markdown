@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/12/day21
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/12/day21
+layout: post
+title:  "Day 21: Association for Computational Linguistics and Chinese Language Processing"
+date:   2014-07-12 04:00:00
+categories: jekyll update
+---

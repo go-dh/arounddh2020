@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/09/02/day73
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/09/02/day73
+layout: post
+title:  "Day 73: Post Scriptum"
+date:   2014-09-02 04:00:00
+categories: jekyll update
+---

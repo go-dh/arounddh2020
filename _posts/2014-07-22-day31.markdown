@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/07/22/day31
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/07/22/day31
+layout: post
+title:  "Day 31: Biblioteca Digital del Pensamiento Novohispano | Digital Library of New Spanish Thought"
+date:   2014-07-22 04:00:00
+categories: jekyll update
+---

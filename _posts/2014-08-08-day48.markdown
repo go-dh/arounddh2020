@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/08/08/day48
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/08/08/day48
+layout: post
+title:  "Day 48: Bénincultures"
+date:   2014-08-08 04:00:00
+categories: jekyll update
+---

@@ -1,0 +1,8 @@
+---
+permalink: /jekyll/update/2014/09/09/day80
+redirect_to: http://arounddh.elotroalex.com/jekyll/update/2014/09/09/day80
+layout: post
+title:  "Day 80: You, wherever you may be."
+date:   2014-09-09 04:00:00
+categories: jekyll update
+---
