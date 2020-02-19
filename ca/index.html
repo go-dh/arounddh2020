@@ -127,7 +127,7 @@ lang: ca
 
 <h2>Projectes</h2>
 {% for post in site.posts %}	
-    <h3 class="postlist"><a href="{{ post.url }}">{{ post.title }}</a> by {{ post.author }}</h3>
+    <h3 class="postlist"><a href="{{ post.url }}">{{ post.title }}</a> per {{ post.author }}</h3>
     <p class="postlist"><strong>{{ post.date | date: "%B %e, %Y" }}</strong></p>
 	<p class="postlist">{{ post.description }}</small></p>			
 {% endfor %}
