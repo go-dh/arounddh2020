@@ -1,17 +1,19 @@
 ---
 layout: default
-title: About
-lang: en
+title: Sobre el projecte
+lang: cat
 handle: /about
 ---
 
-## Project Introduction
-*Around DH 2020* revisits the goals of the original [Around DH in 80 Days](http://arounddh.elotroalex.com/), in order to introduce new and veteran audiences to the global field of DH scholarly practice by engaging with current DH projects from around the world. *Around DH in 80 Days* was pathbreaking in its work to raise awareness of the existence of DH work going on around the globe. In the 5+ years that have passed, the existence of this DH work is no longer in question. Through *Around DH 2020* we hope to take the next step: surfacing the *networks* of people and sources behind these projects, the tools used, and what these projects *mean*. What do the project developers hope to accomplish with this work? What have they learned in the process? To accomplish this, each piece is written by someone associated with the project, responding in their own words to questions posed by *Around DH 2020*.
+## Presentació del projecte
+*Al voltant de les HD 2020* 
 
-Despite getting off to a slow start at the beginning of the year, *Around DH 2020* aims to feature one DH project in a language other than English or from a minoritized group, every week. We also hope to include write-ups of "the state of DH" in particular regions, languages, or fields throughout the year.
+revisita els objectius de l'original <a href="https://github.com/elotroalex/arounddh">Around DH in 80 Days</a>, per tal de presentar les humanitats digitals com a disciplina acadèmica global a públics novells i experimentats. L'enfocament parteix d'un pun de vista pràctic i vol connectar amb projectes actuals de HD d'arreu del món. *Around DH in 80 Days* va ser pioner a l'hora de donar visibilitat a treballs d'HD al voltant del món. Durant els més de cinc anys que porta en actiu, la existència d'aquesta feina en les HD ja no es qüestionable. A través de <em>Al voltant de les HD 2020</em> volem fer el següent pas: treure a la llum les <em>xarxes</em> humanes i els recursos que han fet possible aquests projectes, les eines emprades, i posar de relleu la seva <em>importància</em>. ¿Què volen aconseguir els membres de l'equip amb aquest projecte? ¿Què han aprés durant el procès? Per tal de fer això possible, cada peça la signa una persona associada al projecte, en resposta a una sèrie de preguntas que genera el projecte *Al voltant de les HD 2020*.
 
-## Submit a Project
-If you know of a project that you would like to see featured in *Around DH 2020*, please [fill out this project form](https://forms.gle/b6EeaCph2bBWREEx8). Submissions will be sent to the editors for consideration.
+Malgrat haver començat a un ritme lent aquest any, Despite getting off to a slow start at the beginning of the year, *Al voltant de les HD 2020* mira de presentar un projecte d'Humanitats Digitals en una llengua que no sigui l'anglesa o d'un grup minoritzat un cop per setmana. També esperem poder incluir peces de "l'estat de la questió en eles HD" a regions, llengües o disciplines particulars durant l'any.
+
+## Enviament de projectes
+Si coneixes un projecte que t'agradaria veure a *Al voltant de les HD 2020*, pots [omplir aques formulari per projectes](https://forms.gle/b6EeaCph2bBWREEx8). Les sol·licituds s'enviaran als editors per a la seva consideració.
 
 ## Join the Project as an Editor or Translator
 Brief editorial meetings for *Around DH 2020* will happen synchronously every other Friday starting March 6th at 9:00 AM Pacific, with discussion between meetings via the [Around DH 2020 mailing list](https://mailman.stanford.edu/mailman/listinfo/around-dh-2020). If you're interested in volunteering to help identify projects and get the information we need to feature them, please [join the mailing list](https://mailman.stanford.edu/mailman/listinfo/around-dh-2020).
@@ -25,5 +27,5 @@ Quinn Dombrowski selected the first few projects, based on linguistic diversity 
 One goal of *Around DH 2020* is to minimize the overlap in project teams between featured projects, and use the "State of DH" pieces to draw larger connections within the field. By the end of the year, we hope to have showcased projects featuring a wide range of languages, locations, and methods.
 
 
-## Acknowledgements
-To begin the growing list of acknowledgements for this project, I would like to thank Alex Gil for passing the torch for the "Around DH" project, including transferring the domain name he created for the original project.
+## Agraïments
+Per començar amb una creixent llista d'agraïments en relació amb aquest projecte, voldria agraïr l'Alex Gil per pasar-me el relleu del projecte "Around DH", incloent la transferència del domini original que ell va crear pel projecte original.
