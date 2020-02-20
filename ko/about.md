@@ -2,11 +2,11 @@
 layout: default
 title: About
 lang: ko
-handle: /about
+handle: /ko/about
 ---
 
 ## Project Introduction
-*Around DH 2020* revisits the goals of the original [Around DH in 80 Days](http://arounddh.elotroalex.com/), in order to introduce new and veteran audiences to the global field of DH scholarly practice by engaging with current DH projects from around the world. *Around DH in 80 Days* was pathbreaking in its work to raise awareness of the existence of DH work going on around the globe. In the 5+ years that have passed, the existence of this DH work is no longer in question. Through *Around DH 2020* we hope to take the next step: surfacing the *networks* of people and sources behind these projects, the tools used, and what these projects *mean*. What do the project developers hope to accomplish with this work? What have they learned in the process? To accomplish this, each piece is written by someone associated with the project, responding in their own words to questions posed by *Around DH 2020*.
+*Around DH 2020*는 원래 [Around DH in 80 Days](http://arounddh.elotroalex.com/) 프로젝트의 목표에 대해 재논의하고자 합니다. 또한 전문가 혹은 새로운 청중들에게 디지털 인문학의 글로벌 분야를 알리기 위해, 전세계에 현존하는 DH 프로젝트들과 소통하고자 합니다. *Around DH in 80 Days*는  지구촌에 진행되고 있는 DH 프로젝트의 존재 대한 인식을 제고하는데 앞장 선 선구자입니다. 최근 5년 동안, 이 프로젝트의 존재는 분명해졌습니다. 이제 *Around DH 2020*를 통해서, 우리는 다음 단계로 나가고자 합니다. 예를 들어, 이러한 프로젝트 뒤에 있는 사람들과 소스들, 사용된 툴과, 이 프로젝트들이 *의미*하는 바들, 이러한 전체적인 *연결고리*를 표면화 하고자 합니다. 프로젝트 개발자들은 이 작업과 함께 무엇을 성취하고자 할까요? 이 과정에서 그들은 무엇을 배울까요? To accomplish this, each piece is written by someone associated with the project, responding in their own words to questions posed by *Around DH 2020*.
 
 Despite getting off to a slow start at the beginning of the year, *Around DH 2020* aims to feature one DH project in a language other than English or from a minoritized group, every week. We also hope to include write-ups of "the state of DH" in particular regions, languages, or fields throughout the year.
 
