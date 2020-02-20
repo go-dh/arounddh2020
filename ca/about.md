@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Sobre el projecte
+title: El projecte
 lang: cat
-handle: /about
+handle: /elprojecte
 ---
 
 ## Presentació del projecte
