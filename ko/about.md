@@ -6,24 +6,24 @@ handle: /ko/about
 ---
 
 ## Project Introduction
-*Around DH 2020*는 원래 [Around DH in 80 Days](http://arounddh.elotroalex.com/) 프로젝트의 목표에 대해 재논의하고자 합니다. 또한 전문가 혹은 새로운 청중들에게 디지털 인문학의 글로벌 분야를 알리기 위해, 전세계에 현존하는 DH 프로젝트들과 소통하고자 합니다. *Around DH in 80 Days*는  지구촌에 진행되고 있는 DH 프로젝트의 존재 대한 인식을 제고하는데 앞장 선 선구자입니다. 최근 5년 동안, 이 프로젝트의 존재는 분명해졌습니다. 이제 *Around DH 2020*를 통해서, 우리는 다음 단계로 나가고자 합니다. 예를 들어, 이러한 프로젝트 뒤에 있는 사람들과 소스들, 사용된 툴과, 이 프로젝트들이 *의미*하는 바들, 이러한 전체적인 *연결고리*를 표면화 하고자 합니다. 프로젝트 개발자들은 이 작업과 함께 무엇을 성취하고자 할까요? 이 과정에서 그들은 무엇을 배울까요? To accomplish this, each piece is written by someone associated with the project, responding in their own words to questions posed by *Around DH 2020*.
+*Around DH 2020* 는 원래 [Around DH in 80 Days](http://arounddh.elotroalex.com/) 프로젝트의 목표에 대해 재논의하고자 합니다. 또한 전문가 혹은 새로운 청중들에게 디지털 인문학의 글로벌 분야를 알리기 위해, 전세계에 현존하는 DH 프로젝트들과 소통하고자 합니다. *Around DH in 80 Days* 는  지구촌에 진행되고 있는 DH 프로젝트의 존재 대한 인식을 제고하는데 앞장 선 선구자입니다. 최근 5년 동안, 이 프로젝트의 존재는 분명해졌습니다. 이제 *Around DH 2020* 를 통해서, 우리는 다음 단계로 나가고자 합니다. 예를 들어, 이러한 프로젝트 뒤에 있는 사람들과 소스들, 사용된 툴과, 이 프로젝트들이 *의미* 하는 바들, 이러한 전체적인 *연결고리* 를 표면화 하고자 합니다. 프로젝트 개발자들은 이 작업을 통해 무엇을 성취하고자 할까요? 이 과정에서 그들은 무엇을 배울까요? 이러한 것들을 달성하기 위해, 각각의 포스트는 해당 프로젝트에 참여한 분이 작성하며, *Around DH 2020* 을 통해 제기된 질문들도 개별 답변을 합니다.
 
-Despite getting off to a slow start at the beginning of the year, *Around DH 2020* aims to feature one DH project in a language other than English or from a minoritized group, every week. We also hope to include write-ups of "the state of DH" in particular regions, languages, or fields throughout the year.
+연초에 천천히 진행되는 감이 있지만, *Around DH 2020* 는 영어가 아닌 다른 언어나 소수 그룹의 프로젝트를 매주 한가지 소개하는데 중점을 둡니다. 또한 올해 특정 지역, 언어, 또는 분야에 관한 DH 현황("State of DH") 포스트를 포함하길 바랍니다.
 
-## Submit a Project
-If you know of a project that you would like to see featured in *Around DH 2020*, please [fill out this project form](https://forms.gle/b6EeaCph2bBWREEx8). Submissions will be sent to the editors for consideration.
+## 프로젝트 제출하기
+*Around DH 2020* 에 관련된 프로젝트를 알고 있다면, [이 형식에 기입해주세요](https://forms.gle/b6EeaCph2bBWREEx8). 제출 시, 편집자분들이 심사를 할 예정입니다.
 
-## Join the Project as an Editor or Translator
-Brief editorial meetings for *Around DH 2020* will happen synchronously every other Friday starting March 6th at 9:00 AM Pacific, with discussion between meetings via the [Around DH 2020 mailing list](https://mailman.stanford.edu/mailman/listinfo/around-dh-2020). If you're interested in volunteering to help identify projects and get the information we need to feature them, please [join the mailing list](https://mailman.stanford.edu/mailman/listinfo/around-dh-2020).
+## 편집자 혹은 번역자로 프로젝트 참여하기
+*Around DH 2020* 의 간략한 편집자 미팅이 3월 6일부터 매주 금요일 9시(태평양시)에 있을 예정입니다. 또한 [메일 리스트](https://mailman.stanford.edu/mailman/listinfo/around-dh-2020)에 등록된 분들 간의 메일로의 소통은 계속 진행됩니다. *Around DH 2020* 에 소개할 프로젝트를 찾거나 필요한 정보를 얻는 데에, 도움을 주길 원하신다면, [메일 리스트](https://mailman.stanford.edu/mailman/listinfo/around-dh-2020)에 가입해주세요.
 
-We're also looking for translators interested in translating the posts into any other language. Please email Quinn Dombrowski at qad@stanford.edu if you'd like to volunteer! Translators will be credited as co-authors of their translations.
+저희는 또한 여기에 게재된 포스트들을 다른 언어로 번역 할 수 있는 분들을 구하고 있습니다. 번역 봉사에 관심이 있으시면, Quinn Dombrowski (qad@stanford.edu)에게 이메일을 보내주세요! 번역자들은 번역 공동저자로 크레딧이 주어집니다.
 
 
 ## Editorial Policy
-Quinn Dombrowski selected the first few projects, based on linguistic diversity and responsiveness of the project teams. Subsequent choices will be made collectively by the volunteer editors, but the ultimate responsibility for all decisions (and any ire associated with them) lies with Quinn Dombrowski. 
+Quinn Dombrowski는 언어적 다양성과 프로젝트 팀의 적극성을 고려하여, 처음 몇 프로젝트를 선정하였습니다. 이후의 프로젝트 선정에 대해서는 자원하는 편집자분들에 의해 결정이 되지만, 모든 결정에 대한 전적인 책임은 (그리고 편집자들에 대한 분노는) Quinn Dombrowski에게 놓이게 됩니다.
 
-One goal of *Around DH 2020* is to minimize the overlap in project teams between featured projects, and use the "State of DH" pieces to draw larger connections within the field. By the end of the year, we hope to have showcased projects featuring a wide range of languages, locations, and methods.
+*Around DH 2020* 의 한가지 목표는 여기에 소개된 프로젝트 간의 중복을 최소화 하는 것이며, DH 현황("State of DH")은 분야 내에서 더 큰 연결고리를 만들 것입니다. 저희는 연말까지 드넓은 범위의 언어, 지역, 방법으로 이루어진 프로젝트를 소개하는 것이 목표입니다.
 
 
-## Acknowledgements
-To begin the growing list of acknowledgements for this project, I would like to thank Alex Gil for passing the torch for the "Around DH" project, including transferring the domain name he created for the original project.
+## 감사의 글
+이 프로젝트의 감사의 글 목록을 만들기에 앞서, 저는 "Around DH" 프로젝트를 위해, 오리지널 프로젝트를 위해 만든 도메인 이름과 횃불을 건내 준 Alex Gil에게 감사함을 표하고 싶습니다.
