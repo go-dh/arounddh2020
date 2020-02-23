@@ -22,8 +22,7 @@ També busquem traductores interessades en traduir les entrades a qualsevol altr
 ## Editorial Policy
 Quinn Dombrowski va seleccionar els primers projectes, basant-se amb la seva diversitat lingüística i resposta dels equips darrera els projectes. Les tries futures es faràn de manera col·lectiva pels editors, però la responsabilitat última per aquestes decisions (i qualsevol ira que se'n desencadeni) recau en la Quinn Dombrowski. 
 
-One goal of *Around DH 2020* is to minimize the overlap in project teams between featured projects, and use the "State of DH" pieces to draw larger connections within the field. By the end of the year, we hope to have showcased projects featuring a wide range of languages, locations, and methods.
-
+El nostre objectiu a *Al voltant de les HD 2020* és minimitzar el solapament de col·laboradors entre els projectes que presentem, i utilitzar les peces de "Estat de la qüestió a les HD" per tal d'establir connexions més amplies dins la disciplina. Abans no acabi aquest any, ens agradaria haver fet difusió de projectes que donin visibilitat a una gran varietat de llengues, localitzacions i metodologies.
 
 ## Agraïments
 Per començar amb una creixent llista d'agraïments en relació amb aquest projecte, voldria agraïr l'Alex Gil per pasar-me el relleu del projecte "Around DH", incloent la transferència del domini original que ell va crear pel projecte original.
