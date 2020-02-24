@@ -12,6 +12,9 @@
 { "type": "Feature", "properties": { "name": "CREDO", "url": "/en/waves-of-words", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ 5.3557777, 43.2935917 ] } },
 { "type": "Feature", "properties": { "name": "CNRS", "url": "/en/waves-of-words", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ 2.2639934, 48.8476037 ] } },
 { "type": "Feature", "properties": { "name": "Yuin nation", "url": "/en/waves-of-words", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ 150.05119, -36.3652 ] } },
-{ "type": "Feature", "properties": { "name": "D’harawal clan", "url": "/en/waves-of-words", "count": "100"}, "geometry": { "type": "Point", "coordinates": [  151, -34 ] } }
+{ "type": "Feature", "properties": { "name": "D’harawal clan", "url": "/en/waves-of-words", "count": "100"}, "geometry": { "type": "Point", "coordinates": [  151, -34 ] } },
+{ "type": "Feature", "properties": { "name": "CAICYT", "url": "/en/la-manuscrita-argentina", "count": "400"}, "geometry": { "type": "Point", "coordinates": [ -58.4056595, -34.6102623 ] } },
+{ "type": "Feature", "properties": { "name": "Universidad de Buenos Aires", "url": "/en/la-manuscrita-argentina", "count": "300"}, "geometry": { "type": "Point", "coordinates": [ -58.37306, -34.59972 ] } },
+{ "type": "Feature", "properties": { "name": "University of Michigan", "url": "/en/la-manuscrita-argentina", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -83.7404128, 42.2780436 ] } }
 ]
 }

@@ -362,6 +362,7 @@
 { "type": "Feature", "properties": { "name": "Yoke", "url": "/en/waves-of-words", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ 138.028, -1.68798 ] } },
 { "type": "Feature", "properties": { "name": "Nyelâyu", "url": "/en/waves-of-words", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ 163.66, -19.72 ] } },
 { "type": "Feature", "properties": { "name": "Iamalele", "url": "/en/waves-of-words", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ 150.573, -9.45005 ] } },
-{ "type": "Feature", "properties": { "name": "Torres Strait Islands", "url": "/en/waves-of-words", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ 141.3100305, -10.015663 ] } }
+{ "type": "Feature", "properties": { "name": "Torres Strait Islands", "url": "/en/waves-of-words", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ 141.3100305, -10.015663 ] } },
+{ "type": "Feature", "properties": { "name": "Rio de la Plata", "url": "/en/la-argentina-manuscrita", "count": "100", "addrtype": "place", "addrlocat": "city", "countn": 75}, "geometry": { "type": "Point", "coordinates": [ -57, -35 ] } }
 ]
 }
