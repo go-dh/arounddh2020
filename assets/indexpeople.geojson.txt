@@ -363,6 +363,17 @@
 { "type": "Feature", "properties": { "name": "Nyelâyu", "url": "/en/waves-of-words", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ 163.66, -19.72 ] } },
 { "type": "Feature", "properties": { "name": "Iamalele", "url": "/en/waves-of-words", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ 150.573, -9.45005 ] } },
 { "type": "Feature", "properties": { "name": "Torres Strait Islands", "url": "/en/waves-of-words", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ 141.3100305, -10.015663 ] } },
-{ "type": "Feature", "properties": { "name": "Rio de la Plata", "url": "/en/la-argentina-manuscrita", "count": "100", "addrtype": "place", "addrlocat": "city", "countn": 75}, "geometry": { "type": "Point", "coordinates": [ -57, -35 ] } }
+{ "type": "Feature", "properties": { "name": "Rio de la Plata", "url": "/en/la-argentina-manuscrita", "count": "100", "addrtype": "place", "addrlocat": "city", "countn": 75}, "geometry": { "type": "Point", "coordinates": [ -57, -35 ] } },
+{ "type": "Feature", "properties": { "name": "Juchipila", "url": "/en/familyl-etters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -103.2564919, 21.3783266 ] } },
+{ "type": "Feature", "properties": { "name": "Huapamacato", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -102.0846606, 20.1207106 ] } },
+{ "type": "Feature", "properties": { "name": "Lincoln", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -96.8308147, 40.8007842 ] } },
+{ "type": "Feature", "properties": { "name": "Havelock", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -96.6434493, 40.8533049 ] } },
+{ "type": "Feature", "properties": { "name": "Fort_Lupton", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -104.8546916, 40.0715587 ] } },
+{ "type": "Feature", "properties": { "name": "Denver", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -104.995198, 39.7645187 ] } },
+{ "type": "Feature", "properties": { "name": "Longmont", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -105.167895, 40.1680691 ] } },
+{ "type": "Feature", "properties": { "name": "Brighton", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -104.8710869, 39.9591895 ] } },
+{ "type": "Feature", "properties": { "name": "La Grange", "url": "/en/family-letters", "count": "50"}, "geometry": { "type": "Point", "coordinates": [ -87.891815, 41.8050616 ] } },
+{ "type": "Feature", "properties": { "name": "Camp Carson", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -105.9223295, 39.9560052 ] } },
+{ "type": "Feature", "properties": { "name": "Churintzio", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -102.0654091, 20.1485008 ] } }
 ]
 }
