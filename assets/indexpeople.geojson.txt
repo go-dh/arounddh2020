@@ -374,6 +374,10 @@
 { "type": "Feature", "properties": { "name": "Brighton", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -104.8710869, 39.9591895 ] } },
 { "type": "Feature", "properties": { "name": "La Grange", "url": "/en/family-letters", "count": "50"}, "geometry": { "type": "Point", "coordinates": [ -87.891815, 41.8050616 ] } },
 { "type": "Feature", "properties": { "name": "Camp Carson", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -105.9223295, 39.9560052 ] } },
-{ "type": "Feature", "properties": { "name": "Churintzio", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -102.0654091, 20.1485008 ] } }
+{ "type": "Feature", "properties": { "name": "Churintzio", "url": "/en/family-letters", "count": "30"}, "geometry": { "type": "Point", "coordinates": [ -102.0654091, 20.1485008 ] } },
+{ "type": "Feature", "properties": { "name": "Jos", "url": "/en/digital-nollywood", "count": "50", "addrtype": "place", "addrlocat": "city", "countn": 75}, "geometry": { "type": "Point", "coordinates": [ 8.8032963, 9.9155163 ] } },
+{ "type": "Feature", "properties": { "name": "Aba", "url": "/en/digital-nollywood", "count": "50", "addrtype": "place", "addrlocat": "city", "countn": 75}, "geometry": { "type": "Point", "coordinates": [ 7.2969046, 5.1167963 ] } },
+{ "type": "Feature", "properties": { "name": "University of Ibadan", "url": "/en/digital-nollywood", "count": "50"}, "geometry": { "type": "Point", "coordinates": [ 3.8972636, 7.4442646 ] } },
+{ "type": "Feature", "properties": { "name": "Lagos", "url": "/en/digital-nollywood", "count": "50"}, "geometry": { "type": "Point", "coordinates": [ 3.1435269, 6.5483767 ] } }
 ]
 }

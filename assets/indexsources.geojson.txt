@@ -28,6 +28,9 @@
 { "type": "Feature", "properties": { "name": "Luisa", "url": "/en/family-letters", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -67.030455, 10.4686988 ] } },
 { "type": "Feature", "properties": { "name": "Jennifer", "url": "/en/family-letters", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -2.8553145, 43.3538278 ] } },
 { "type": "Feature", "properties": { "name": "Laura", "url": "/en/family-letters", "count": "50"}, "geometry": { "type": "Point", "coordinates": [ -95.9325785, 41.0013133 ] } },
-{ "type": "Feature", "properties": { "name": "Steven", "url": "/en/family-letters", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -96.6736243, 40.9838025 ] } }
+{ "type": "Feature", "properties": { "name": "Steven", "url": "/en/family-letters", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -96.6736243, 40.9838025 ] } },
+{ "type": "Feature", "properties": { "name": "Univ of Kansas", "url": "/en/digital-nollywood", "count": "50"}, "geometry": { "type": "Point", "coordinates": [ -95.2579901, 38.9543481 ] } },
+{ "type": "Feature", "properties": { "name": "Lagos", "url": "/en/digital-nollywood", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ 3.1435269, 6.5483767 ] } },
+{ "type": "Feature", "properties": { "name": "University of Ibadan", "url": "/en/digital-nollywood", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ 3.8972636, 7.4442646 ] } }
 ]
 }
