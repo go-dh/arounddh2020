@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "sources",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Jos", "url": "/en/digital-nollywood", "count": "50", "addrtype": "place", "addrlocat": "city", "countn": 75}, "geometry": { "type": "Point", "coordinates": [ 8.8032963, 9.9155163 ] } },
+{ "type": "Feature", "properties": { "name": "Aba", "url": "/en/digital-nollywood", "count": "50", "addrtype": "place", "addrlocat": "city", "countn": 75}, "geometry": { "type": "Point", "coordinates": [ 7.2969046, 5.1167963 ] } },
+{ "type": "Feature", "properties": { "name": "University of Ibadan", "url": "/en/digital-nollywood", "count": "50"}, "geometry": { "type": "Point", "coordinates": [ 3.8972636, 7.4442646 ] } },
+{ "type": "Feature", "properties": { "name": "Lagos", "url": "/en/digital-nollywood", "count": "50"}, "geometry": { "type": "Point", "coordinates": [ 3.1435269, 6.5483767 ] } }
+]
+}
