@@ -36,3 +36,5 @@ The passages were from manuscript C of the [Estoria de Espanna](https://en.wikip
 ### Collaborators
 The TranscribeEstoria team consisted of Prof Aengus Ward (University of Birmingham, but a proud Dubliner), Dr Ricardo Pichel (Universidad de Alcalá and Universidade de Santiago de Compostela), and Dr Polly Duxfield (University of Birmingham). We collaborated with scholars from the Research Software Group in the Advanced Research Computing Team at the University of Birmingham, and much of the coding was carried out by Cerys Lewis. This team helped to develop the main tool we used in this project: our new transcription platform with WYSIWYG (what you see is what you get) buttons to input a range of TEI5-compliant XML tags. Volunteer transcribers were from a range of countries, including the UK, Spain, Brazil and Argentina.
 
+
+*Image credit: Biblioteca Nacional de España*
