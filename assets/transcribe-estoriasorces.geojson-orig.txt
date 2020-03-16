@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "citiesallreports",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "University of Birmingham", "url": "/en/transcribe-estoria", "count": "300"}, "geometry": { "type": "Point", "coordinates": [ -1.9327022, 52.4508168 ] } },
+{ "type": "Feature", "properties": { "name": "Dublin", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -6.525884, 53.3239919 ] } },
+{ "type": "Feature", "properties": { "name": "Universidad de Alcalá", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -3.3650561, 40.4824722 ] } },
+{ "type": "Feature", "properties": { "name": "Universidade de Santiago de Compostela", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -8.5471613, 42.8885225 ] } },
+{ "type": "Feature", "properties": { "name": "UK", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -22.2404791, 53.2182505 ] } },
+{ "type": "Feature", "properties": { "name": "Spain", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -12.7079681, 39.8593214 ] } },
+{ "type": "Feature", "properties": { "name": "Brazil", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -90.6633503, -11.2372153 ] } },
+{ "type": "Feature", "properties": { "name": "Argentina", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -81.6509494, -37.0531457 ] } }
+]
+}
