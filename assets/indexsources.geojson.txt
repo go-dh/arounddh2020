@@ -31,6 +31,12 @@
 { "type": "Feature", "properties": { "name": "Steven", "url": "/en/family-letters", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -96.6736243, 40.9838025 ] } },
 { "type": "Feature", "properties": { "name": "Univ of Kansas", "url": "/en/digital-nollywood", "count": "50"}, "geometry": { "type": "Point", "coordinates": [ -95.2579901, 38.9543481 ] } },
 { "type": "Feature", "properties": { "name": "Lagos", "url": "/en/digital-nollywood", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ 3.1435269, 6.5483767 ] } },
-{ "type": "Feature", "properties": { "name": "University of Ibadan", "url": "/en/digital-nollywood", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ 3.8972636, 7.4442646 ] } }
+{ "type": "Feature", "properties": { "name": "University of Ibadan", "url": "/en/digital-nollywood", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ 3.8972636, 7.4442646 ] } },
+{ "type": "Feature", "properties": { "name": "University of Birmingham", "url": "/en/transcribe-estoria", "count": "300"}, "geometry": { "type": "Point", "coordinates": [ -1.9327022, 52.4508168 ] } },
+{ "type": "Feature", "properties": { "name": "Dublin", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -6.525884, 53.3239919 ] } },
+{ "type": "Feature", "properties": { "name": "Universidad de Alcalá", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -3.3650561, 40.4824722 ] } },
+{ "type": "Feature", "properties": { "name": "Brazil", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -69.758164, -13.6973106 ] } },
+{ "type": "Feature", "properties": { "name": "Argentina", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -66.8613617, -34.4589 ] } },
+{ "type": "Feature", "properties": { "name": "Universidade de Santiago de Compostela", "url": "/en/transcribe-estoria", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ -8.5471613, 42.8885225 ] } }
 ]
 }
