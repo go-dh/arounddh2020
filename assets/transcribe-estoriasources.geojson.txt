@@ -3,6 +3,6 @@
 "name": "citiesallreports",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "name": "Kyiv", "url": "/en/sucho-memes", "count": "100"}, "geometry": { "type": "Point", "coordinates": [ 30.5238, 50.45466 ] } }
+{ "type": "Feature", "properties": { "name": "Ukraine", "count": 100, "lat": 50.45466, "lon": 30.5238, "countn": 200 }, "geometry": { "type": "Point", "coordinates": [ 50.45466, 30.5238 ] } }
 ]
 }
